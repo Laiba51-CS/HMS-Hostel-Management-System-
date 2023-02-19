@@ -1,0 +1,7 @@
+RR-12,G-1,10,VVIP,Ground,10000
+RR-34,G-2,10,VIP,1st,5000
+RR-45,G-3,10,stndrd,GROUND,5000
+RR-98,G-4,10,Normal,1ST,5000
+RR-09,G-5,10,modrte,2nd,2000
+RR-45,G-6,10,low,Ground,5000
+RR-08,G-7,10,bad,Ground,10000

@@ -1,0 +1,15 @@
+C:\Users\DELL\OneDrive\Desktop\2nd semester\SUMMER\HMS\HMS\bin\Debug\HMS.exe.config
+C:\Users\DELL\OneDrive\Desktop\2nd semester\SUMMER\HMS\HMS\bin\Debug\HMS.exe
+C:\Users\DELL\OneDrive\Desktop\2nd semester\SUMMER\HMS\HMS\bin\Debug\HMS.pdb
+C:\Users\DELL\OneDrive\Desktop\2nd semester\SUMMER\HMS\HMS\obj\Debug\HMS.csproj.AssemblyReference.cache
+C:\Users\DELL\OneDrive\Desktop\2nd semester\SUMMER\HMS\HMS\obj\Debug\HMS.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Desktop\2nd semester\SUMMER\HMS\HMS\obj\Debug\HMS.exe
+C:\Users\DELL\OneDrive\Desktop\2nd semester\SUMMER\HMS\HMS\obj\Debug\HMS.pdb
+E:\Documents\2nd semester\SUMMER\HMS\HMS\bin\Debug\HMS.exe.config
+E:\Documents\2nd semester\SUMMER\HMS\HMS\bin\Debug\HMS.exe
+E:\Documents\2nd semester\SUMMER\HMS\HMS\bin\Debug\HMS.pdb
+E:\Documents\2nd semester\SUMMER\HMS\HMS\obj\Debug\HMS.csproj.AssemblyReference.cache
+E:\Documents\2nd semester\SUMMER\HMS\HMS\obj\Debug\HMS.csproj.SuggestedBindingRedirects.cache
+E:\Documents\2nd semester\SUMMER\HMS\HMS\obj\Debug\HMS.csproj.CoreCompileInputs.cache
+E:\Documents\2nd semester\SUMMER\HMS\HMS\obj\Debug\HMS.exe
+E:\Documents\2nd semester\SUMMER\HMS\HMS\obj\Debug\HMS.pdb
